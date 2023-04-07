@@ -1,0 +1,3 @@
+# TUNNEL DIODE ELECTRICITY GENERATION
+
+Tunnel Diode is a semiconductor device which makes use of negative resistance. Also known as Esaki Diode, it finds many applications in various domains including microwave electronics, nuclear reactor circuits and others. But the property of resistance variation of thermal diode to temperature changes makes it special. The property of temperature sensitivity finds application of tunnel diode as a source of supply depending on the surroundings. The seminar focusses on the distinctive characteristics of tunnel diode which help in using it as a supply source and presents the study on the circuitry
