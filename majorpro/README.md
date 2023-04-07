@@ -4,8 +4,6 @@ coverY: 0
 
 # Home
 
-{% tabs %}
-{% tab title="Projects List" %}
 {% content-ref url="identification-of-book-rack-in-library/" %}
 [identification-of-book-rack-in-library](identification-of-book-rack-in-library/)
 {% endcontent-ref %}
@@ -21,8 +19,4 @@ coverY: 0
 {% content-ref url="stock-prediction-using-lstm/" %}
 [stock-prediction-using-lstm](stock-prediction-using-lstm/)
 {% endcontent-ref %}
-{% endtab %}
-{% endtabs %}
-
-
 
