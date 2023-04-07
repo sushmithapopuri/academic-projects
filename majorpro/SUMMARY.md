@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Home](README.md)
+* [My Projects](README.md)
 * [IDENTIFICATION OF A BOOK RACK IN A LIBRARY](identification-of-book-rack-in-library/README.md)
   * [INTRODUCTION TO EMBEDDED SYSTEMS](identification-of-book-rack-in-library/chapter1.md)
   * [THEORETICAL ANALYSIS](identification-of-book-rack-in-library/chapter2.md)
